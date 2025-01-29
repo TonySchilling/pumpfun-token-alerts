@@ -95,5 +95,5 @@ def token_details(token_address):
     else:
         return "Token not found", 404
     
-if __name__=='__main__':
-    app.run(debug=True)
+# if __name__=='__main__':
+#     app.run(debug=True)
